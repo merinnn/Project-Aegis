@@ -20,7 +20,7 @@ The project follows a "Detect-Verify-Seal" pipeline:
 
 ### 1. The Breach (VAPT Phase)
 *Description: Kali Linux successfully connecting to the Honeypot listener.*
-> ![VAPT Attack]([Screenshot 2026-04-06 210156.png])
+> ![VAPT Attack](Screenshot%202026-04-06%20210156.png)
 
 ### 2. The Detection (SOC Phase)
 *Description: Wazuh Dashboard triggering a Level 12 "Critical" alert.*
