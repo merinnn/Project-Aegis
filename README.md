@@ -28,7 +28,7 @@ The project follows a "Detect-Verify-Seal" pipeline:
 
 ### 3. The Ledger (Integrity Phase)
 *Description: The `ledger.json` file showing the hashed chain of events.*
-> ![Blockchain Ledger](Screenshot%202026-04-06%20234339.png)
+> ![Blockchain Ledger](Screenshot%202026-04-06%20210156.png)
 
 ---
 
