@@ -24,11 +24,11 @@ The project follows a "Detect-Verify-Seal" pipeline:
 
 ### 2. The Detection (SOC Phase)
 *Description: Wazuh Dashboard triggering a Level 12 "Critical" alert.*
-> ![Wazuh Alert]([LINK_TO_YOUR_WAZUH_SCREENSHOT])
+> ![Wazuh Alert](Screenshot%202026-04-06%20213700.png)
 
 ### 3. The Ledger (Integrity Phase)
 *Description: The `ledger.json` file showing the hashed chain of events.*
-> ![Blockchain Ledger]([LINK_TO_YOUR_LEDGER_SCREENSHOT])
+> ![Blockchain Ledger](Screenshot%202026-04-06%20234339.png)
 
 ---
 
